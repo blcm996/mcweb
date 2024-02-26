@@ -1,0 +1,19 @@
+{
+  "name": " mcweb",
+  "version": "0.0.1",
+  "description": "Welcome to NanguaCommunity!",
+  "main": "index.js",
+  "authors": {
+    "name": "BLCM",
+    "email": "b886866b@163.com"
+  },
+  "repository": "/ mcweb",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
